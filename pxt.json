@@ -1,5 +1,5 @@
 {
-    "name": " RGB-LED-Cahnging colors-CatL",
+    "name": " RGB-LED-Changing colors-CatL",
     "description": "",
     "dependencies": {
         "core": "*",
